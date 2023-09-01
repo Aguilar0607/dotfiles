@@ -20,6 +20,8 @@ export const PlayerIcons = {
     'firefox': '󰈹',
     'mpv': '',
     'brave': '󰊠',
+    'chromium': '',
+    'Hack4u': '󱗗',
     'youtubemusic-nativefier' : ''
 }
 

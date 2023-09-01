@@ -11,4 +11,4 @@ eww open bar
 eww open desktop
 eww open notifications_popup
 
-$HOME/.config/eww/scripts/myshell/./myshell --eww --file
+$HOME/.config/eww/scripts/myshell/myshell --eww --file

@@ -1,7 +1,23 @@
 #!/usr/bin/env bash
 
+# function toggle_menu {
+#     #MAIN=$(eww get main_monitor)
+#     MAIN=""
+#     hyprctl keyword blurls "remove,gtk-layer-shell"
+#     STATE=$(eww windows | grep $1$MAIN | awk '{print substr ($0, 0, 1)}')
+#     if [[ $STATE == '*' ]]; then 
+#         if [[ $1 == 'powermenu' ]]; then hyprctl keyword blurls "remove,gtk-layer-shell>
+#         eww close $1$MAIN;
+#     else
+#         if [[ $1 == 'powermenu' ]]; then hyprctl keyword blurls "gtk-layer-shell
+#         if [[ $1 == 'app_launcher' ]]; then $HOME/.config/eww/scripts/apps query ""; fi
+#         eww open $1$MAIN;
+#     fi
+# }
+
 function toggle_menu {
-    MAIN=$(eww get main_monitor)
+    #MAIN=$(eww get main_monitor)
+    MAIN=""
     hyprctl keyword blurls "remove,gtk-layer-shell"
     STATE=$(eww windows | grep $1$MAIN | awk '{print substr ($0, 0, 1)}')
     if [[ $STATE == '*' ]]; then 
@@ -13,6 +29,7 @@ function toggle_menu {
         eww open $1$MAIN;
     fi
 }
+
 
 function colorpicker {
     pkill hyprpicker
@@ -53,7 +70,7 @@ if [[ $1 == 'pavu'           ]]; then pavucontrol; fi
 if [[ $1 == 'network'        ]]; then network; fi
 if [[ $1 == 'rog'            ]]; then rog-control-center; fi
 if [[ $1 == 'brightness'     ]]; then wl-gammactl; fi
-if [[ $1 == 'bluetooth'      ]]; then blueberry; fi
+if [[ $1 == 'bluetooth'      ]]; then blueman-manager; fi
 if [[ $1 == 'powermenu'      ]]; then powermenu; fi
 if [[ $1 == 'toggle_menu'    ]]; then toggle_menu $2; fi
 if [[ $1 == 'close_calendar' ]]; then close_calendar; fi

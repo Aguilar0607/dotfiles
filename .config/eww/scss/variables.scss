@@ -1,4 +1,4 @@
-$assets: '/home/demeter/.config/eww/assets/';
+$assets: '/home/blaze/.config/eww/assets/';
 $wallpaper: $assets+'wallpaper.png';
 $avatar:    $assets+'avatar.jpg';
 
@@ -33,7 +33,7 @@ $popover_padding: 14px;
 * {
     all: unset;
     font-size: 14px;
-    font-family: 'Ubuntu Nerd Font';
+    font-family: 'Ubuntu Nerd Font Regular';
     transition: 200ms;
 }
-$mono_font: 'mononoki NF';
+$mono_font: 'Monoki Nerd Font';

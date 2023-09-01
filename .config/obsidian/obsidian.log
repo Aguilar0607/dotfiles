@@ -1,0 +1,101 @@
+2023-07-21 04:06:48 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-21 04:06:48 Checking for update using Github
+2023-07-21 04:06:48 Success.
+2023-07-21 04:06:48 Latest version is 1.3.5
+2023-07-21 04:06:48 App is up to date.
+2023-07-22 20:27:27 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-22 20:27:27 Checking for update using Github
+2023-07-22 20:27:27 Success.
+2023-07-22 20:27:27 Latest version is 1.3.5
+2023-07-22 20:27:27 App is up to date.
+2023-07-22 20:32:06 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-22 20:32:06 Checking for update using Github
+2023-07-22 20:32:06 Success.
+2023-07-22 20:32:06 Latest version is 1.3.5
+2023-07-22 20:32:06 App is up to date.
+2023-07-23 08:19:54 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-23 08:19:54 Checking for update using Github
+2023-07-23 08:19:54 Success.
+2023-07-23 08:19:54 Latest version is 1.3.5
+2023-07-23 08:19:54 App is up to date.
+2023-07-24 16:16:23 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-24 16:16:24 Checking for update using Github
+2023-07-24 16:16:24 Success.
+2023-07-24 16:16:24 Latest version is 1.3.5
+2023-07-24 16:16:24 App is up to date.
+2023-07-24 17:16:23 Checking for update using Github
+2023-07-24 17:16:24 Success.
+2023-07-24 17:16:24 Latest version is 1.3.5
+2023-07-24 17:16:24 App is up to date.
+2023-07-24 18:16:24 Checking for update using Github
+2023-07-24 18:16:24 Success.
+2023-07-24 18:16:24 Latest version is 1.3.5
+2023-07-24 18:16:24 App is up to date.
+2023-07-25 01:14:33 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-25 01:14:33 Checking for update using Github
+2023-07-25 01:14:33 Success.
+2023-07-25 01:14:33 Latest version is 1.3.5
+2023-07-25 01:14:33 App is up to date.
+2023-07-29 02:04:51 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-29 02:04:51 Checking for update using Github
+2023-07-29 02:04:51 Success.
+2023-07-29 02:04:51 Latest version is 1.3.5
+2023-07-29 02:04:51 App is up to date.
+2023-07-29 23:24:03 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-29 23:24:03 Checking for update using Github
+2023-07-29 23:24:03 Success.
+2023-07-29 23:24:03 Latest version is 1.3.5
+2023-07-29 23:24:03 App is up to date.
+2023-07-29 23:24:42 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-29 23:24:42 Checking for update using Github
+2023-07-29 23:24:42 Success.
+2023-07-29 23:24:42 Latest version is 1.3.5
+2023-07-29 23:24:42 App is up to date.
+2023-07-30 04:12:08 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-30 04:12:09 Checking for update using Github
+2023-07-30 04:12:09 Success.
+2023-07-30 04:12:09 Latest version is 1.3.5
+2023-07-30 04:12:09 App is up to date.
+2023-07-31 23:11:49 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-07-31 23:11:50 Checking for update using Github
+2023-07-31 23:11:50 Success.
+2023-07-31 23:11:50 Latest version is 1.3.7
+2023-07-31 23:11:50 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.7/obsidian-1.3.7.asar.gz
+2023-07-31 23:11:51 Verifying hash & signature. Size= 7540911
+2023-07-31 23:11:51 Saving file
+2023-07-31 23:11:51 Update complete.
+2023-08-01 00:11:50 Checking for update using Github
+2023-08-01 00:11:50 Success.
+2023-08-01 00:11:50 Latest version is 1.3.7
+2023-08-01 00:11:50 An update is already downloaded.
+2023-08-01 01:11:50 Checking for update using Github
+2023-08-01 01:11:50 Success.
+2023-08-01 01:11:50 Latest version is 1.3.7
+2023-08-01 01:11:50 An update is already downloaded.
+2023-08-01 02:11:50 Checking for update using Github
+2023-08-01 02:11:50 Success.
+2023-08-01 02:11:50 Latest version is 1.3.7
+2023-08-01 02:11:50 An update is already downloaded.
+2023-08-01 03:11:50 Checking for update using Github
+2023-08-01 03:11:50 Success.
+2023-08-01 03:11:50 Latest version is 1.3.7
+2023-08-01 03:11:50 An update is already downloaded.
+2023-08-01 04:11:50 Checking for update using Github
+2023-08-01 04:11:50 Success.
+2023-08-01 04:11:50 Latest version is 1.3.7
+2023-08-01 04:11:50 An update is already downloaded.
+2023-08-01 16:16:32 Loading updated app package /home/blaze/.config/obsidian/obsidian-1.3.7.asar
+2023-08-01 16:16:32 Checking for update using Github
+2023-08-01 16:16:32 Success.
+2023-08-01 16:16:32 Latest version is 1.3.7
+2023-08-01 16:16:32 App is up to date.
+2023-08-04 04:33:30 Loading updated app package /home/blaze/.config/obsidian/obsidian-1.3.7.asar
+2023-08-04 04:33:30 Checking for update using Github
+2023-08-04 04:33:30 Success.
+2023-08-04 04:33:30 Latest version is 1.3.7
+2023-08-04 04:33:30 App is up to date.
+2023-08-05 01:58:10 Loading updated app package /home/blaze/.config/obsidian/obsidian-1.3.7.asar
+2023-08-05 01:58:11 Checking for update using Github
+2023-08-05 01:58:11 Success.
+2023-08-05 01:58:11 Latest version is 1.3.7
+2023-08-05 01:58:11 App is up to date.
