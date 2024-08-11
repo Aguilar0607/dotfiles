@@ -1,8 +1,8 @@
 
 # Hyprland
-<img src="https://github.com/Aguilar0607/dotfiles/assets/hyprland-1.png">
-<img src="https://github.com/Aguilar0607/dotfiles/assets/hyprland-2.png">
-<img src="https://github.com/Aguilar0607/dotfiles/assets/hyprland-3.png">
+<img src="https://github.com/Aguilar0607/dotfiles/blob/main/assets/hyprland-1.png">
+<img src="https://github.com/Aguilar0607/dotfiles/blob/main/assets/hyprland-2.png">
+<img src="https://github.com/Aguilar0607/dotfiles/blob/main/assets/hyprland-3.png">
 
 ## Dependencias Kali Linux 
 > Pendiente
