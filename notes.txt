@@ -1,0 +1,5 @@
+grub theme -> vimix
+gtk theme -> graphite
+icon theme -> whitesur
+mouse cursor -> Bibata-Modern-Ice
+

@@ -1,0 +1,26 @@
+user: 75                                 # Light blue, similar to #51A4E7
+group: 254                               # Very light grey, almost white, for text
+permission:
+  read: 75                               # Light blue, consistent with user color for readability
+  write: 39                              # Dark blue, for writable files, offers a contrast
+  exec: 81                               # Pale blue, softer than #51A4E7 but still noticeable for executable files
+  exec-sticky: 81                        # Pale blue, same as exec, for sticky executables
+  no-access: 59                          # Darker blue, visible but not too jarring for no access
+date:
+  hour-old: 153                          # Pale blue, softer and lighter for recent hours
+  day-old: 111                           # Medium blue, distinguishable but still subtle for previous day
+  older: 33                              # Deeper blue, clear but elegant for older files
+size:
+  none: 254                              # Very light grey, almost white, for nonexistent sizes
+  small: 153                             # Pale blue, light and clean for small files
+  medium: 81                             # Pale blue, consistent with exec for medium sizes
+  large: 39                              # Dark blue, strong for large files
+inode:
+  valid: 254                             # Very light grey, matching group for valid inodes
+  invalid: 59                            # Darker blue, to indicate problems clearly
+links:
+  valid: 38                              # #1F96AD, a beautiful teal blue for valid links, adding a fresh pop of color
+  invalid: 59                            # Darker blue, to clearly indicate invalid links
+tree-edge: 38                            # #1F96AD, used here as well for directory tree edges to maintain a coherent look
+
+
